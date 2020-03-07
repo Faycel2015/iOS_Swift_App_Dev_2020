@@ -1,0 +1,335 @@
+[
+{
+ "question": "What is the color of blood?",
+ "correct_answer": "Red",
+ "incorrect_answers": [
+ "Blue",
+ "Yellow",
+ "Black",
+]
+},
+{
+"question": "What are clothes made of?",
+"correct_answer": "Cloth",
+"incorrect_answers": [
+"Paper",
+"Wood",
+"Glass",
+]
+},
+{
+ "question": "Which has the sweetest taste?",
+ "correct_answer": "Honey",
+ "incorrect_answers": [
+ "Spaghetti",
+ "Hot dogs",
+ "Peanut Butter",
+]
+},
+{
+ "question": "Which tastes the most sour?",
+ "correct_answer": "Lemon",
+ "incorrect_answers": [
+ "Apple",
+ "Orange",
+ "Banana",
+]
+},
+{
+"question": "Which is the hottest?",
+"correct_answer": "Flame",
+"incorrect_answers": [
+"Pancake",
+"Light bulb",
+"Gun",
+]
+},
+{
+"question": "Which is the coldest?",
+"correct_answer": "Glass",
+"incorrect_answers": [
+"Water",
+"Ice",
+"Rain",
+]
+},
+{
+"question": "Which is used for making holes in wood?",
+"correct_answer": "Drill",
+"incorrect_answers": [
+"Plane",
+"Pliers",
+"Hammer",
+]
+},
+{
+"question": "Which is used when playing baseball?",
+"correct_answer": "Stick",
+"incorrect_answers": [
+"Mitt",
+"Basket",
+"Racket",
+]
+},
+{
+"question": "Which is used when making clothes?",
+"correct_answer": "Pattern",
+"incorrect_answers": [
+"Plastic",
+"String",
+"Nails",
+]
+},
+{
+"question": "Which is used to make concrete?",
+"correct_answer": "Asphalt",
+"incorrect_answers": [
+"Sand",
+"Plaster",
+"Mud",
+]
+},
+{
+"question": "Which can cause disease?",
+"correct_answer": "Bacteria",
+"incorrect_answers": [
+"Baldness",
+"Bones",
+"Blood",
+]
+},
+{
+"question": "Which is the longest snake?",
+"correct_answer": "Python",
+"incorrect_answers": [
+"Cobra",
+"Garter",
+"Rattle",
+]
+},
+{
+"question": "Which is not a fruit?",
+"correct_answer": "Potato",
+"incorrect_answers": [
+"Blueberry",
+"Mango",
+"Pineapple",
+]
+},
+{
+"question": "Which did people invent first?",
+"correct_answer": "Boats",
+"incorrect_answers": [
+"Airplanes",
+"Trains",
+"Cars",
+]
+},
+{
+"question": "Which cannot go around the earth?",
+"correct_answer": "A boat",
+"incorrect_answers": [
+"The Sun",
+"The moon",
+"A plane",
+]
+},
+{
+"question": "Which tool is best for stirring?",
+"correct_answer": "Spatula",
+"incorrect_answers": [
+"Fork",
+"Ladle",
+"Spoon",
+]
+},
+{
+"question": "Which is not a well-known river?",
+"correct_answer": "Inca",
+"incorrect_answers": [
+"Mississippi",
+"Nile",
+"Amazon",
+]
+},
+{
+"question": "Who lived most recently?",
+"correct_answer": "John F. Kennedy",
+"incorrect_answers": [
+"George Washington",
+"Jesus",
+"Abraham Lincoln",
+]
+},
+{
+"question": "Which lived first on Earth?",
+"correct_answer": "People",
+"incorrect_answers": [
+"Fish",
+"Monkeys",
+"Birds",
+]
+},
+{
+"question": "Which is the largest mammal?",
+"correct_answer": "Whale",
+"incorrect_answers": [
+"Elephant",
+"Rhinoceros",
+"Hippopotamus",
+]
+},
+{
+"question": "Which can reach the highest?",
+"correct_answer": "Kangaroo",
+"incorrect_answers": [
+"Giraffe",
+"Deer",
+"Lion",
+]
+},
+{
+"question": "Which needs to cook the longest?",
+"correct_answer": "Cookie",
+"incorrect_answers": [
+"Waffle",
+"Cake",
+"Pancake",
+]
+},
+{
+"question": "Which is not harmful to most humans?",
+"correct_answer": "Botulism",
+"incorrect_answers": [
+"Salmonella",
+"Penicillin",
+"E-coli",
+]
+},
+{
+"question": "What is a person made of mostly?",
+"correct_answer": "Bones",
+"incorrect_answers": [
+"Muscles",
+"Skin",
+"Water",
+]
+},
+{
+"question": "Which ocean is biggest?",
+"correct_answer": "Pacific",
+"incorrect_answers": [
+"Indian",
+"Antarctic",
+"Atlantic",
+]
+},
+{
+"question": "Which mountains are the highest?",
+"correct_answer": "Himalayas",
+"incorrect_answers": [
+"Rockies",
+"Urals",
+"Hippopotamus",
+]
+},
+{
+"question": "Which is not man made?",
+"correct_answer": "Oxygen",
+"incorrect_answers": [
+"Plastic",
+"Cement",
+"Rayon",
+]
+},
+{
+"question": "Which is not made from trees?",
+"correct_answer": "Paper",
+"incorrect_answers": [
+"Maple syrup",
+"Plastic",
+"Cork",
+]
+},
+{
+"question": "Which does not lay eggs?",
+"correct_answer": "Kudu",
+"incorrect_answers": [
+"Platypus",
+"Rhea",
+"Emu",
+]
+},
+{
+"question": "Which is not poisonous to people?",
+"correct_answer": "Bat",
+"incorrect_answers": [
+"Gila monster",
+"Wasp",
+"Man of war",
+]
+},
+{
+"question": "Which has more protein?",
+"correct_answer": "Peanut",
+"incorrect_answers": [
+"Celery",
+"Pear",
+"Butter",
+]
+},
+{
+"question": "Which does not grow on land?",
+"correct_answer": "Cranberry",
+"incorrect_answers": [
+"Blueberry",
+"Cherry",
+"Strawberry",
+]
+},
+{
+"question": "Who lived first?",
+"correct_answer": "Aristotle",
+"incorrect_answers": [
+"Newton",
+"Madame Curie",
+"Abraham Lincoln",
+]
+},
+{
+"question": "Which is least poisonous to humans?",
+"correct_answer": "Iron",
+"incorrect_answers": [
+"Mercury",
+"Plutonium",
+"Lead",
+]
+},
+{
+"question": "Which tool is not used for making holes?",
+"correct_answer": "Calipers",
+"incorrect_answers": [
+"Punch",
+"Plutonium",
+"Awl",
+]
+},
+{
+"question": "Which was not a WWII general?",
+"correct_answer": "Napoleon",
+"incorrect_answers": [
+"MacArthur",
+"Rommel",
+"Patton",
+]
+},
+{
+"question": "Who discovered radium?",
+"correct_answer": "Madam Curie",
+"incorrect_answers": [
+"Pasteur",
+"Newton",
+"Einstein",
+]
+},
+]
